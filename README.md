@@ -1,4 +1,4 @@
-# Complaint Management System
+# Complaint & Feedback Management System
 
 A simple desktop-based Complaint Management System built using Java Swing and JDBC for a college project. This application allows users to submit grievances and provides an authenticated dashboard for administrators to view, manage, and export resolved complaints.
 
